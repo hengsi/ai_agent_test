@@ -1,19 +1,58 @@
 {
-    "title": "Example JSON File",
-    "description": "This is an example JSON file that contains some text.",
+    "title": "Schwimmen Olympische Spiele 2024",
+    "description": "Die Ergebnisse der Schwimmbewerbe bei den Olympischen Spielen 2024 in Paris.",
     "content": [
         {
             "id": 1,
-            "text": "This is the first text section. It contains some general information."
+            "text": "
+50 m Kraul:
+1.	Cameron McEvoy	AUS	21,25
+2.	Benjamin Proud	GBR	21,30
+3.	Florent Manaudou	FRA	21,56
+4.	Joshua Ismael Liendo Edwards	CAN	21,58
+5.	Kristian Gkolomejew	GRE	21,59
+6.	Caeleb Dressel	USA	21,61
+7.	Leonardo Deplano	ITA	21,62
+8.	Jordan Crooks	CYM	21,64"
         },
         {
             "id": 2,
-            "text": "This is the second text section. It contains more details and descriptions."
+            "text": "
+100 m Kraul:
+1.	Pan Zhanle	CHN	46,40 *
+2.	Kyle Chalmers	AUS	47,48
+3.	David Popovici	ROU	47,49
+4.	Nandor Nemeth	HUN	47,50
+5.	Maxime Grousset	FRA	47,71
+6.	Josha Salchow	GER	47,80
+7.	Jack Alexy	USA	47,96
+8.	Chris Guiliano	USA	47,98
+* Weltrekord"
         },
         {
             "id": 3,
-            "text": "This is the third text section. Here are additional pieces of information."
-        }
-    ],
-    "footer": "End of the example JSON file."
+            "text": "200 m Kraul:
+1.	David Popovici	ROU	1:44,72
+2.	Matthew Richards	GBR	1:44,74
+3.	Luke Hobson	USA	1:44,79
+4.	Duncan Scott	GBR	1:44,87
+5.	Lukas Märtens	GER	1:45,46
+.	Danas Rapsys	LTU	1:45,46
+7.	Maximilian Giuliani	AUS	1:45,57
+8.	Katsuhiro Matsumoto	JPN	1:46,26"
+        },
+        {
+            "id": 4,
+            "text": "400 m Kraul:
+1.	Lukas Maertens	GER	3:41,78
+2.	Elijah Winnington	AUS	3:42,21
+3.	Kim Woomin	KOR	3:42,50
+4.	Samuel Short	AUS	3:42,64
+5.	Guilherme Costa	BRA	3.42,76
+6.	Liwei Fei	CHN	3.44,24
+7.	Oliver Klemet	GER	3:46,59
+8.	Aaron Shackell	USA	3:47,00
+24.	Felix Auböck	AUT	3:50,50"
+        },
+    ]
 }
