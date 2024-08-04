@@ -1,0 +1,19 @@
+{
+    "title": "Example JSON File",
+    "description": "This is an example JSON file that contains some text.",
+    "content": [
+        {
+            "id": 1,
+            "text": "This is the first text section. It contains some general information."
+        },
+        {
+            "id": 2,
+            "text": "This is the second text section. It contains more details and descriptions."
+        },
+        {
+            "id": 3,
+            "text": "This is the third text section. Here are additional pieces of information."
+        }
+    ],
+    "footer": "End of the example JSON file."
+}
