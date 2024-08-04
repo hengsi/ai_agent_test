@@ -4,19 +4,19 @@
     "content": [
         {
             "id": 1,
-            "text": "50 m Kraul:1.Cameron McEvoy AUS 21,25; 2.	Benjamin Proud	GBR	21,30; 3.	Florent Manaudou	FRA	21,56; 4.	Joshua Ismael Liendo Edwards	CAN	21,58; 5.	Kristian Gkolomejew	GRE	21,59; 6.	Caeleb Dressel	USA	21,61; 7.	Leonardo Deplano	ITA	21,62; 8.	Jordan Crooks	CYM	21,64"
+            "text": "50 m Kraul:\n1. Cameron McEvoy AUS 21,25\n2. Benjamin Proud GBR 21,30\n3. Florent Manaudou FRA 21,56\n4. Joshua Ismael Liendo Edwards CAN 21,58\n5. Kristian Gkolomejew GRE 21,59\n6. Caeleb Dressel USA 21,61\n7. Leonardo Deplano ITA 21,62\n8. Jordan Crooks CYM 21,64"
         },
         {
             "id": 2,
-            "text": "100 m Kraul:\n1.	Pan Zhanle	CHN	46,40 *\n2.	Kyle Chalmers	AUS	47,48\n3.	David Popovici	ROU	47,49\n4.	Nandor Nemeth	HUN	47,50\n5.	Maxime Grousset	FRA	47,71\n6.	Josha Salchow	GER	47,80\n7.	Jack Alexy	USA	47,96\n8.	Chris Guiliano	USA	47,98\n* Weltrekord"
+            "text": "100 m Kraul:\n1. Pan Zhanle CHN 46,40 *\n2. Kyle Chalmers AUS 47,48\n3. David Popovici ROU 47,49\n4. Nandor Nemeth HUN 47,50\n5. Maxime Grousset FRA 47,71\n6. Josha Salchow GER 47,80\n7. Jack Alexy USA 47,96\n8. Chris Guiliano USA 47,98\n* Weltrekord"
         },
         {
             "id": 3,
-            "text": "200 m Kraul:\n1.	David Popovici	ROU	1:44,72\n2.	Matthew Richards	GBR	1:44,74\n3.	Luke Hobson	USA	1:44,79\n4.	Duncan Scott	GBR	1:44,87\n5.	Lukas Märtens	GER	1:45,46\n.	Danas Rapsys	LTU	1:45,46\n7.	Maximilian Giuliani	AUS	1:45,57\n8.	Katsuhiro Matsumoto	JPN	1:46,26"
+            "text": "200 m Kraul:\n1. David Popovici ROU 1:44,72\n2. Matthew Richards GBR 1:44,74\n3. Luke Hobson USA 1:44,79\n4. Duncan Scott GBR 1:44,87\n5. Lukas Märtens GER 1:45,46\n. Danas Rapsys LTU 1:45,46\n7. Maximilian Giuliani AUS 1:45,57\n8. Katsuhiro Matsumoto JPN 1:46,26"
         },
         {
             "id": 4,
-            "text": "400 m Kraul:\n1.	Lukas Maertens	GER	3:41,78\n2.	Elijah Winnington	AUS	3:42,21\n3.	Kim Woomin	KOR	3:42,50\n4.	Samuel Short	AUS	3:42,64\n5.	Guilherme Costa	BRA	3.42,76\n6.	Liwei Fei	CHN	3.44,24\n7.	Oliver Klemet	GER	3:46,59\n8.	Aaron Shackell	USA	3:47,00\n24.	Felix Auböck	AUT	3:50,50"
-        },
+            "text": "400 m Kraul:\n1. Lukas Maertens GER 3:41,78\n2. Elijah Winnington AUS 3:42,21\n3. Kim Woomin KOR 3:42,50\n4. Samuel Short AUS 3:42,64\n5. Guilherme Costa BRA 3.42,76\n6. Liwei Fei CHN 3.44,24\n7. Oliver Klemet GER 3:46,59\n8. Aaron Shackell USA 3:47,00\n24. Felix Auböck AUT 3:50,50"
+        }
     ]
 }
