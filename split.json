@@ -20079,7 +20079,9 @@
             ],
             "foci": [],
             "projects": []
-        },
+        }
+    ],
+    "publications2": [
         {
             "org_nrs": [
                 "E183"
@@ -32438,7 +32440,9 @@
                 "Visual Computing and Human-Centered Technology"
             ],
             "projects": []
-        },
+        }
+    ],
+    "publications3": [
         {
             "org_nrs": [
                 "E193-01",
@@ -32493,9 +32497,7 @@
                 "Visual Computing and Human-Centered Technology"
             ],
             "projects": []
-        }
-    ],
-    "publications2": [
+        },
         {
             "org_nrs": [
                 "E193-01",
@@ -43633,7 +43635,9 @@
                 "Visual Computing and Human-Centered Technology"
             ],
             "projects": []
-        },
+        }
+    ],
+    "publications4": [
         {
             "org_nrs": [
                 "E193-03"
